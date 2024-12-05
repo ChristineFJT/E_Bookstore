@@ -10,6 +10,9 @@ This project involves designing, implementing, and documenting a database system
 - **Feedback System**: Members can rate books (1-10) and leave a short text comment. Each user can provide only one feedback per book.
 - **Publisher and Orders Management**: Track the books ordered from publishers, the books received, and the status of these orders.
 
+## Database Management
+This project uses **Microsoft SQL Server (MSSQL)** for database management.
+
 ## Queries to Implement Using Data Manipulation Language (DML)
 ### 1. List the book(s) with the highest rating.
 - Show book ID, book name, and the rating.
